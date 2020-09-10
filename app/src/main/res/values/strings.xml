@@ -3,4 +3,14 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
+    <string name="remember">Remember Me Always</string>
+    <string name="logout">Logout</string>
+    <string name="saveColor">Save Color</string>
+    <string name="select">Select a Color</string>
+    <string-array name="color">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
 </resources>
